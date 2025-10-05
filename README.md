@@ -32,7 +32,7 @@ All test cases are documented in the `/test-cases` folder (Excel file).
 ## Test Execution
 Test execution summarizes test cases that passed, failed, or were not executed.  
 Bugs found during execution were logged in JIRA.  
-
+Link: https://docs.google.com/spreadsheets/d/1Y88cLR30p1M2RXMCgbThwWLZTbxqq2Ldoo1eIjmKqFY/edit?usp=sharing
 ---
 
 ## Bug Reports
