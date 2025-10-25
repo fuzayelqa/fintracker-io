@@ -9,7 +9,7 @@ Website : https://fintracker.io/
 
 ## Contents
 - Test Plan  
-- Test Cases  
+- Test Cases
 - Test Execution Report  
 - Bug Reports in JIRA  
 - Screenshots  
