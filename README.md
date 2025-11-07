@@ -3,7 +3,7 @@
 This repository contains QA testing documentation for the **Fintracker.io Demo Website**. It includes the **Test Plan**, **Test Cases**, **Test Execution Reports**, **Bug Reports in JIRA**, and relevant **screenshots**.  
 
 **QA Engineer:** Ozih Uddin Al Fuzayel 
-**Testing Date:** 05 August 2025  
+**Testing Date:** 05 August 2025
 Website : https://fintracker.io/
 ---
 
